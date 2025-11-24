@@ -1,0 +1,10 @@
+{
+  "name": "hoppergame",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "path:all": "node fix-paths.js"
+  }
+}
+
+
