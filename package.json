@@ -6,5 +6,3 @@
     "path:all": "node fix-paths.js"
   }
 }
-
-
